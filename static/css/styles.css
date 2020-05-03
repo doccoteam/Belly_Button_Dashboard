@@ -1,0 +1,61 @@
+h1 {
+    color: white;
+    font-size: xx-large;
+          
+    }
+.header {
+      font-size:36pt;
+      font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+      text-transform: uppercase;
+     
+    }
+p {
+    color: white
+}
+
+.jumbotron {
+    /* opacity: 0.8, */
+    background-image: url('http://robdunnlab.com/wp-content/uploads/microbes-sem.jpg')
+    
+}
+
+.jumbotron h1 {
+    color: white;
+}
+
+.panel-primary {
+    border-color: slateblue;
+    /* background: silver;  */
+}
+
+.svg-container {
+    position: absolute;
+    vertical-align: center;
+    /* top: 50%;
+    -webkit-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+    left: 0;
+    right: 0; */
+    margin: auto;
+    text-align: center;
+} 
+
+.panel-primary > .panel-heading {
+    background-color: slateblue;
+    border-color: slateblue;
+
+
+}
+
+.well {
+    border-color: slateblue;
+    background-color: slateblue;
+    text-decoration-color: snow;
+
+
+}
+
+.panel-title {
+    color: white;
+}
